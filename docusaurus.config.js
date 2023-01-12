@@ -82,15 +82,6 @@ const config = {
             ],
           },
           {
-            title: 'Concepts',
-            items: [
-              {
-                label: 'Concepts',
-                to: '/concepts/intro',
-              },
-            ],
-          },
-          {
             title: 'Community',
             items: [
               {
